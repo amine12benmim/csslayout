@@ -1,0 +1,164 @@
+body{
+    padding: 200px;
+    padding-top: 70px;
+    
+    }
+    ul{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    color: #84ada8c5;
+    }
+    li{
+        padding: 10px;
+    }
+    nav{
+        
+    background-color: rgba(252, 252, 252, 0.966);
+    width:80%;
+    display: flex;
+    /* justify-content: space-between; */
+     padding:10px 40px;
+     position: fixed;
+       top: 0;
+    }
+    nav a img{     width: 268px;
+        height: 33px;
+    }
+
+    
+    section{
+        display: flex;
+    justify-content: center;
+    }
+    section p{
+        text-align:justify;
+        display: flex;
+        justify-content: flex-start;
+        color: #4e5c5aaf;
+        line-height: 1.75;
+        font-weight: 400;
+        margin: 20px; 
+    }
+    
+    .logo{
+        display: block;
+        display: flex;
+        justify-content: center;
+    }
+    menu h2{
+        text-align: center;
+        color: #00b39b;
+        margin: 50px;
+        font-family: Work Sans,Arial,sans-serif;
+        font-weight: 300;
+    }
+    .container{
+    display: flex;
+    justify-content: space-between;
+    padding: 5% ;
+    height:  400px; width: auto;
+    }
+    .c1{
+    background-color: #07b9a2;
+    height: 300px;  width: 33%;;
+    
+    }
+    i{
+    
+    color: wheat;
+    padding: 40px;
+    display: inline;
+    
+    }
+    .c2{
+    background-color: #174da0;
+    height: 300px;  width: 33%;;
+    
+    }
+    .c3{
+    background-color: #170447;
+    height: 300px;  width: 33%;;
+    
+    }
+    .container h2{
+    color: #c6ece7a9;
+    display: inline;
+    font-size: 15px;
+    line-height: 20px;
+    
+    
+    }
+    .container i h2 {
+    display: flex;
+    justify-content: flex-start;
+    
+    
+    }
+    .container p {
+    color: #e2f5f2;
+    
+    }
+    h3{
+        display: flex;
+        justify-content: flex-start;
+        color: #00b39b;
+        margin: 50px;
+        font-family: Arial,sans-serif;
+        font-weight: 100;
+        font-size: 1.625em;
+    
+    }
+    
+    select {
+        background: transparent;
+        border: 10px;
+        border-radius: 10;
+        color: white;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    
+    
+    .container2{
+    background-color: #e5faf8;
+    height: 650px;
+    
+    }
+    .box_container{
+        display: flex;
+        justify-content: center;
+        padding: 40px;
+        
+        
+        
+    }
+    
+    .box_container i {
+        color: rgba(129, 206, 250, 0.829);
+        font-size: 2.2125em;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .box_container .box1{
+        background-color: white;
+        height: 200px;  width: 100%;;
+    } 
+    .box_container .box2{
+        background-color: white;
+        height: 200px;  width:100%;;
+    } 
+    
+    .box_container .box3{
+        background-color: white;
+        height: 200px;  width: 100%;;
+    } 
+    .box_container .box4{
+        background-color: white;
+        height: 200px;  width: 100%;;
+    }
+    .brands__logos a img {color: red
+
+    }
